@@ -1,0 +1,34 @@
+.center{
+	margin: 0 auto;
+} 
+
+.title{
+   	text-align: center;
+	font-family: monospace;
+}
+
+.red-letter{
+	color: red;
+
+}
+
+table{
+	width:300px;
+}
+
+td{
+    	width: 35px;
+	height: 35px;
+    	border: 1px;
+    	padding: 1px;
+   	border-spacing: 1px;
+}
+
+.black{
+	background-color: black;
+}
+
+.red{
+	background-color: red;
+}
+
